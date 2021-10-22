@@ -1,0 +1,48 @@
+Price
+RAM
+Processor_Model
+Rear Camera
+Front Camera
+Battery
+Display
+Launch Date
+Operating System
+CPU
+Graphics
+Display Type
+Screen Size
+Resolution
+Pixel Density
+Screen to Body Ratio (calculated)
+Touch Screen
+Height
+Width
+Thickness
+Weight
+Colours
+Camera Setup
+Autofocus
+Flash
+Image Resolution
+Shooting Modes
+Camera Features
+Type
+Removable
+USB Type-C
+Internal Memory
+Expandable Memory
+SIM Slot(s)
+SIM Size
+Network Support
+SIM 1
+SIM 2
+Wi-Fi
+Wi-Fi Features
+Bluetooth
+GPS
+USB Connectivity
+Loudspeaker
+Audio Jack
+Fingerprint Sensor
+Other Sensors
+FM Radio
